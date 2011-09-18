@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="net.poweru.placemanager.ComponentFactory"/>
+<classEntry path="net.poweru.placemanager.IComponentFactory"/>
+<classEntry path="net.poweru.placemanager.InitialDataProxy"/>
+<classEntry path="net.poweru.placemanager.ModuleContainer"/>
+<classEntry path="net.poweru.placemanager.PlaceNotFound"/>
+<classEntry path="net.poweru.placemanager.SpaceMediator"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>
